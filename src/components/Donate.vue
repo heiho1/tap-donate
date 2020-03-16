@@ -24,7 +24,7 @@
           :ripple="true"
           color="teal darken-1"
         >Join TAP today</v-btn>
-        &nbsp;
+        <br /><br />
         <v-btn
           href="https://gab.com/911tap"
           target="_blank"
