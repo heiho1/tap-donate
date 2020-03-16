@@ -10,6 +10,7 @@
         <h3 style="text-align: center">{{ msg }}</h3>
         <div style="text-align: center">
           <sub>ETH donations go to:</sub>
+          <br/>
           <sub>0x8C6C1523E064eb85c78D756760dd1e70265d2A86</sub>
         </div>
         <v-alert
