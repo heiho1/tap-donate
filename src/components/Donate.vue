@@ -23,7 +23,7 @@
           rel="noopener noreferrer"
           :ripple="true"
           color="teal darken-1"
-        >Join TAP today</v-btn>
+        >Join TAP</v-btn>
         <br /><br />
         <v-btn
           href="https://gab.com/911tap"
@@ -31,7 +31,7 @@
           rel="noopener noreferrer"
           :ripple="true"
           color="teal darken-1"
-        >Discuss on GAB!</v-btn>
+        >GAB 4 TAP</v-btn>
         </div>
       </v-flex>
       <v-flex xs8 max-height="40em">
